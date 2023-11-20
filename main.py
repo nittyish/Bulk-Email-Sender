@@ -2,8 +2,8 @@ import smtplib, ssl, random
 import csv
 from email.message import EmailMessage
 
-sender = 'www.sharmanitish.sudha@gmail.com'
-password = 'glqw kyik ycfl xuyh' 
+sender = 'Your Email Address'
+password = 'Your Password' 
 subject = input("Enter the subjeFistct =  ")
 name = input("Email Name")
 
